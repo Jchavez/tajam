@@ -2,7 +2,7 @@
 Tajam is business page 
 
 # Live URL
-https://tajam.github.io
+https://jchavez.github.io/tajam/
 
 # Description
 
